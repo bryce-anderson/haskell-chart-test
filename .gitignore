@@ -1,0 +1,5 @@
+codex.tags
+cabal.sandbox.config
+dist/
+.cabal-sandbox/
+
